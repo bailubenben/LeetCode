@@ -1,3 +1,5 @@
+```java
+
 public class Solution {
     public void solveSudoku(char[][] board) {
         if(board == null || board.length < 1)
@@ -37,3 +39,4 @@ public class Solution {
         return true;
     }
 }
+```
